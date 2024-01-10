@@ -136,7 +136,7 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a i {
-  margin-right: 5px;
+  margin-left: 5px;
   border-radius: 100%;
   background-color: #ffffff;
   width: 25px;
@@ -1040,4 +1040,9 @@ a:focus {
 
 .branches {
   background-color: #23242a;
+}
+
+.fakir {
+  color: #5483C4;
+  font-weight: bold;
 }
